@@ -1,0 +1,46 @@
+*.png
+plt*/
+*_plt*/
+.vscode/
+.ipynb_checkpoints/
+pyenv_gpu/
+*.nsys-rep
+*.sqlite
+add_cpu
+add_gpu
+blast_cpu
+blast_gpu
+hello
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
